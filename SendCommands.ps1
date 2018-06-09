@@ -206,8 +206,6 @@ while($couldBeCompleted -ne $actualCompleted);
 
 }
 
-
-
 #-----------------------------------------------------------[Execution]------------------------------------------------------------
 
 #Script Execution goes here
